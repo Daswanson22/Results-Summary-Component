@@ -27,7 +27,7 @@ Users should be able to:
 
 ### What I learned
 
-Throughout your exploration of HTML and CSS, you have gained a solid understanding of various concepts and techniques. You have learned how to structure and organize web content using HTML tags, such as headings (<h1>, <h2>, etc.), paragraphs (<p>), lists (<ul>, <ol>), and more.
+Throughout your exploration of HTML and CSS, you have gained a solid understanding of various concepts and techniques. You have learned how to structure and organize web content using HTML tags, such as headings, paragraphs, lists, and more.
 
 In terms of CSS, you have learned how to style and customize HTML elements using properties like color, font-size, background-color, and padding. You have also delved into layout techniques, including using display: flex; and display: grid; to create flexible and responsive designs.
 
